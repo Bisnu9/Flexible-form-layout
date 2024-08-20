@@ -3,12 +3,13 @@
 ## Flexible Navigation Menu
  
 
-### Description
-Flexible Navigation Menu is a versatile and responsive navigation menu component designed to enhance user experience with smooth transitions and dynamic dropdown submenus. Built using CSS transitions and transforms, this menu adapts to various screen sizes and provides a sleek interface for navigating through sections of your website.
+###  Description 
+Flexible Form Layout is a modern, responsive form layout component designed with Flexbox. This layout adapts seamlessly to various screen sizes and orientations, providing an optimal user experience across devices. It supports multiple columns, making it easy to create complex forms with a clean, organized appearance.
+
 
 # Features
-Responsive Design: Adapts to different screen sizes, ensuring usability across devices.<br>
-Smooth Transitions: Utilizes CSS transitions for fluid animation effects.<br>
-Dropdown Submenus: Easily configurable submenus that expand and collapse on hover or click.<br>
-Customizable Styles: Modify appearance using CSS variables and styles.<br>
-Accessibility: Keyboard navigable and screen reader friendly.<br>
+Responsive Design: Adapts to different screen sizes using Flexbox.
+Multi-Column Layout: Easily create forms with multiple columns for better organization.
+Flexibility: Adjust column widths and form element alignment through CSS.
+User-Friendly: Ensures a clean and intuitive form experience on all devices.
+Customizable Styles: Modify appearance and layout through CSS.
